@@ -1,7 +1,7 @@
 export const api = {
   icon: '🚀',
   name: 'hmac.do',
-  description: 'Cloudflare Worker Template',
+  description: 'HMAC Generation & Validation API',
   url: 'https://hmac.do/api',
   type: 'https://apis.do/crypto',
   endpoints: {
